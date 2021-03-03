@@ -12,6 +12,7 @@ $intVariable = 25; // integer variable
 $booleanVariable = false; //boolean variable
 $floatvariable = 1.45; //float 
 $arrayVariable = array(25.0,30.0,45.45); //float array
+$arrayVariable =  array("jose","mary");
 
 echo "My name is "." ". $username; 
 

@@ -1,11 +1,13 @@
-<?php //start tag
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
 
-//so to output in PHP
-echo "Hello world from PHP echo code";
-echo "<br>";
-echo "<h1>output of HTML</h1>";
-echo "<br>";
-print "Hello world from PHP print code";
+	<?php
+     echo "output";
+	?>
 
-//close tag
-?> 
+</body>
+</html>
